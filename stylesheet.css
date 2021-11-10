@@ -7,7 +7,7 @@ body {
       
       .topnav {
         overflow: hidden;
-        background-color: #333;
+        background-color: rgb(168, 12, 12);
       }
       
       .topnav a {
@@ -28,4 +28,10 @@ body {
         background-color: #04AA6D;
         color: white;
       }
+
+     #first{
+              background-color: palevioletred;
+     }
+     #second
+      
     
